@@ -41,6 +41,11 @@ server.get('/estabelecimentos', (req, res) => {
     return res.json(estabelecimentos);
 })
 
+server.post('/estabelecimentos', (req, res) => {
+        estabelecimentos.push(req.body)
+        res.status(201).send('estabelecimento cadastrado com sucesso!')
+})
+
 server.listen(3000, () => {
     console.log('Servidor rodando em http://localhost:3000');
 });
