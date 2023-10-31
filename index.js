@@ -13,7 +13,7 @@ const estabelecimentos = [
         descrição: 'A Ronchi Beer, fundada em 2018, é uma cervejaria que combina a produção artesanal de cervejas com uma culinária saborosa, incluindo pratos como joelho de porco. Localizada com vista para a deslumbrante Pedra Azul, ela oferece uma variedade de cervejas únicas, proporcionando aos visitantes uma experiência gastronômica memorável em um cenário magnifico.',
         endereco: 'VALE DA PEDRA - Rua Nona Elvira P. Modolo, S/N, Pedra Azul, Domingos Martins 29278000',
         instagram: 'https://www.instagram.com/ronchibeer/',
-        fotoFachada: 'https://images3.motor-reserva.com.br/curl/motor_reserva/images/configuracao_estabelecimento/cliente_2620/202201271643313195ohotel.jpg'
+        fotoFachada: 'https://i.ytimg.com/vi/ELex7hKjRCM/hqdefault.jpg'
     },
     {
         name: "Pousada Peterle",
