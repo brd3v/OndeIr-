@@ -22,7 +22,7 @@ const estabelecimentos = [
         descrição: 'A Pousada Peterle, uma das mais antigas e tradicionais opções de hospedagem na encantadora região de Pedra Azul, oferece uma experiência encantadora para seus hóspedes. Com sua história rica e acolhedora hospitalidade, a pousada é conhecida por suas acomodações charmosas e aconchegantes. Os visitantes podem desfrutar de quartos confortáveis, uma atmosfera tranquila e uma localização privilegiada, que proporciona vistas deslumbrantes para a icônica Pedra Azul. A pousada é o local ideal para aqueles que desejam escapar do ritmo agitado da cidade e se conectar com a natureza exuberante da região, enquanto desfrutam do atendimento personalizado e da tranquilidade que a Pousada Peterle oferece.',
         endereco: 'Rodovia BR 262, km 88 S/n, Domingos Martins - ES, 29278-000',
         instagram: 'https://www.instagram.com/pousadapeterleoficial/',
-        fotoFachada: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/63/21/b7/vista-panoramica-da-piscina.jpg'
+        fotoFachada: 'https://images3.motor-reserva.com.br/curl/motor_reserva/images/configuracao_estabelecimento/cliente_2620/202201271643313195ohotel.jpg'
     },
     {
         name: "Ronchi Beer",
