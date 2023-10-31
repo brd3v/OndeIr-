@@ -31,7 +31,7 @@ const estabelecimentos = [
         descrição: 'O Sítio Herança de Pedra Azul é um encantador destino de agroturismo, imerso na beleza natural da região de Pedra Azul, no Brasil. Os visitantes podem desfrutar de uma experiência única de colheita de morangos, passear pelos campos verdejantes e pitorescos, e explorar as práticas agrícolas tradicionais, tudo em um ambiente tranquilo e relaxante. Com sua atmosfera serena e a oportunidade de se envolver em atividades agrícolas, o Sítio Herança de Pedra Azul oferece uma autêntica experiência de agroturismo para os amantes da natureza.',
         endereco: 'Pedra Azul, Domingos Martins - ES, 29260-000',
         instagram: 'https://www.instagram.com/sitioherancaagroturismo/',
-        fotoFachada: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/6d/64/69/sitio-heranca-agroturismo.jpg'
+        fotoFachada: 'https://fastly.4sqi.net/img/general/width960/7960084_tQZvrocqoK2-XwfKFcb_AcnI3Pd8_y_KguJulixVx7A.jpg'
     },
 
    
