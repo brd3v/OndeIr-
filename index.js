@@ -1,14 +1,13 @@
 
 import  express  from 'express';
 import mongoose from 'mongoose'
-const bd = 'mongodb+srv://bill:123@cluster0.irbhrwm.mongodb.net/?retryWrites=true&w=majority'
-
+const bd = 'mongodb+srv://low:123@cluster0.oiezo0b.mongodb.net/?retryWrites=true&w=majority'
 const server = express();
 server.use(express.json());
 import Estabelecimentos from './models/estabelecimentos.js'
 server.get('/', async(request, response) => { 
     const estabelecimentos = await Estabelecimentos.find() 
-    return response.json(estabelecimentos);
+    return response.json(estabelecimentos); 
 })
 
 server.post("/estabelecimentos", async(request, response) => {

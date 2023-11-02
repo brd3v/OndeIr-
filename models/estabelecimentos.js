@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 const userSchema = new mongoose.Schema({
-    nome: {
+    name: {
         type: String,
         required: true
     },
@@ -8,10 +8,11 @@ const userSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    createdAt: {
-        type: Date,
-        default: Date.now
-    }
+   
+ createdAT:{
+    type: Date,
+    default: Date.now
+  }
 })
 
 
