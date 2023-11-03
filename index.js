@@ -1,3 +1,5 @@
+import  express from "express";
+const server = express()
 const estabelecimentos = [
     {
         name: "Ronchi Beer",
